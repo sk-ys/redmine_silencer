@@ -1,8 +1,8 @@
 # Japanese strings go here for Rails i18n
 ja:
-  setting_supress_default: "問題レベルのサイレントモードはデフォルトで有効になっていますか？"
-  permission_suppress_mail_issue_switch: "問題の電子メール通知を抑制します"
-  permission_suppress_mail_global_switch: "電子メール通知をグローバルに抑制"
-  supress_email_label: "電子メール通知を抑制します"
-  supress_email_label_lock: "電子メール通知を抑制します（グローバルにオン）"
+  setting_supress_default: "チケット単位のサイレントモードをデフォルトで有効に設定しますか？"
+  permission_suppress_mail_issue_switch: "チケット単位でメール通知を抑制"
+  permission_suppress_mail_global_switch: "グローバルにメール通知を抑制"
+  supress_email_label: "メール通知を抑制"
+  supress_email_label_lock: "メール通知を抑制（グローバル）"
   supress_email_menu_switch_label: "サイレントモード"
